@@ -334,6 +334,8 @@ Contributions are welcome for:
 
 Please fork the repository and submit a Pull Request.
 
+> **Note:** By submitting a Pull Request, you agree to grant the licensor the right to use your contribution.
+
 ---
 
 # 📄 License
