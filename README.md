@@ -8,7 +8,7 @@
 ![Security](https://img.shields.io/badge/Security-CSRF+RateLimit+Stealth-red)
 ![Status](https://img.shields.io/badge/Status-Educational_Use_Only-orange)
 
-⭐ **"If you find this project useful, please give a star to [XyraShell] on GitHub."**
+⭐ **"If you find this project useful, please give a star to XyraShell on GitHub."**
 
 **X77Shell PRO** (powered by the X77 Engine v8.1) is a modern PHP-based web shell optimized for **PHP 8.5.5**.  
 This tool is specifically designed for:
