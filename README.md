@@ -6,6 +6,9 @@
 ![License](https://img.shields.io/badge/license-PolyForm_Strict_1.0.0-pink)
 ![PHP](https://img.shields.io/badge/PHP-8.5.5-cyan)
 ![Security](https://img.shields.io/badge/Security-CSRF+RateLimit+Stealth-red)
+![Status](https://img.shields.io/badge/Status-Educational_Use_Only-orange)
+
+⭐ **"If you find this project useful, please give a star to [XyraShell] on GitHub."**
 
 **X77Shell PRO** (powered by the X77 Engine v8.1) is a modern PHP-based web shell optimized for **PHP 8.5.5**.  
 This tool is specifically designed for:
@@ -335,7 +338,7 @@ Please fork the repository and submit a Pull Request.
 
 # 📄 License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **PolyForm Strict 1.0.0 License**.  
 See the `LICENSE` file for more information.
 
 ---
