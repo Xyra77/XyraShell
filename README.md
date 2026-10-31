@@ -19,7 +19,7 @@ This tool is specifically designed for:
 - Security Research Environments
 - **Advanced Penetration Testing**
 
-With a responsive Single Page Application (SPA) interface, X77Shell PRO provides advanced features including file management, multi-tab terminal emulation, real-time vulnerability intelligence (NVD API), forensic analysis, **stealth persistence**, **privilege escalation scanning**, **red-team tooling**, and **advanced obfuscation (D3 Nested Eval)**.
+With a responsive Single Page Application (SPA) interface, X77Shell PRO provides advanced features including file management, multi-tab terminal emulation, real-time vulnerability intelligence (NVD API), forensic analysis, **stealth persistence**, **privilege escalation scanning**, **red-team tooling**, and **Offensive Security**.
 
 ---
 
